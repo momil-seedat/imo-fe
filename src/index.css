@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hiding Scroll bar */
+.container-snap::-webkit-scrollbar {
+    display: 'block';
+    scrollbar-width: thin ; /* Firefox */
+    
+}
+::-webkit-scrollbar {
+    width: 12px;
+    border-radius: 6px;
+
+}
+
+::-webkit-scrollbar-track-piece {
+    background:#eee;
+}
+::-webkit-scrollbar-thumb {
+    background: #888
+}​
+/* Hide scrollbar for IE, Edge, and Firefox */
+.container-snap {
+    -ms-overflow-style: 'block'; /* IE and Edge */
+    scrollbar-width: thin ; /* Firefox */
+}
+
+.hide-page-scroll {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
