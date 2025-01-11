@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82468a30.css",
-    "main.js": "/static/js/main.86705278.js",
+    "main.js": "/static/js/main.ecbd14b1.js",
     "static/media/pattern-tree.svg": "/static/media/pattern-tree.431da656681abcdffac51bee04d7f581.svg",
     "static/media/bg-sign-in-basic.jpeg": "/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
     "static/media/bg-profile.jpeg": "/static/media/bg-profile.af1219a742e09fc7b612.jpeg",
@@ -21,10 +21,10 @@
     "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
     "index.html": "/index.html",
     "main.82468a30.css.map": "/static/css/main.82468a30.css.map",
-    "main.86705278.js.map": "/static/js/main.86705278.js.map"
+    "main.ecbd14b1.js.map": "/static/js/main.ecbd14b1.js.map"
   },
   "entrypoints": [
     "static/css/main.82468a30.css",
-    "static/js/main.86705278.js"
+    "static/js/main.ecbd14b1.js"
   ]
 }
